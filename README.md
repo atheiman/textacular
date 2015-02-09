@@ -1,6 +1,6 @@
-# Ultratext
+# Textacular
 
-Mightytext kinda sucks, so use Ultratext instead!
+Mightytext kinda sucks, so use Textacular instead!
 
 1.  Install the Android app
 
